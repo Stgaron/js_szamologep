@@ -28,6 +28,9 @@ function muveletek1(){
 torlesElem.addEventListener("click",torles2)
 function torles2(){
     mutatoresz.value = ""
+    elsoszamjegyszovege = ""
+    masodikszamjegyszovege = ""
+    muvelet = ""
 }
 
 
