@@ -14,9 +14,6 @@ for(let i = 0;i< szamok2.length;i++){
 for(let j = 0;j<muveletek.length;j++){
     muveletek[j].addEventListener("click", muveletek1)
 }
-for(let k = 0;k< szamok2.length;k++){
-    szamok2[k].addEventListener("click", kiiras2)
-}
 
 function kiiras(){
     elsoszamjegyszovege = event.target.id
